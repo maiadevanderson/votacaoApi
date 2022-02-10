@@ -65,7 +65,3 @@ http://localhost:8080/api-votacao/actuator/health
 * [Kafka](https://kafka.apache.org/) - Apache Kafka
 
 
-## Autores
-
-* **Leonardo Chassot** - *Initial work* - [leonardo-ch](https://github.com/leonardo-ch)
-
